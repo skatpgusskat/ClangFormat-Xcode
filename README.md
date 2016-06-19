@@ -20,7 +20,7 @@ Clone this repo, build and run ClangFormat, restart Xcode.
 
 To remove ClangFormat, run the following in your terminal:
 
-`rm -r "~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/ClangFormat.xcplugin"`
+`rm -r "~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/ClangFormat.xcplugin"`
 
 Or just find the same file and move it to the trash. You'll need to restart Xcode after deleting the plugin.
 
